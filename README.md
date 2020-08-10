@@ -61,7 +61,7 @@ You can also use `.env` as your configure for musicbots! For do this, Go to [Thi
 
 ## By @Yonle & @nekunei. 
 Powered by <a href="https://glitch.com/@nekunei-team">@nekunei-team</a>
-Inspired by: [eritislami/evobot](https://github.com/eritislami/evobot) and Improved by @nekunei and @yonle !
+Inspired by: [eritislami/evobot](https://github.com/eritislami/evobot) and Improved by @nekunei and @yonle.
 Support Our <a href="https://discord.gg/FJwXgEF">Discord Server</a>
 # ChangeLog
 
