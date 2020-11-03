@@ -1,4 +1,6 @@
-
+# Deprecated
+This project is no longer maintained. This is just archive of my Modification of [Eritislami/evobot](https://github.com/eritislami/evobot) repo.
+If you want to Clone this, That's Ok, But we're very recommend you to Clone [Eritislami/evobot](https://github.com/eritislami/evobot). 
 
 ![nei-music](https://cdn.glitch.com/1a3dfe50-5648-4538-9499-d5a39ac7b798%2FUntitled71_20200720095138.png?v=1595213533503)
 > Play your Cool Song at This bot. Free for remix...
